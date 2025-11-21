@@ -1,2 +1,1 @@
 deux fonctionnalités
-modif random
